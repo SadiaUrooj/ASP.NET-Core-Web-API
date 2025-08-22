@@ -64,8 +64,6 @@ The project follows a modern **Web API architecture** with a separate frontend *
 
 ---
 
-## 🚀 
-
 ### 📋 Prerequisites
 - .NET SDK **6.0 or later**  
 - SQL Server instance  
